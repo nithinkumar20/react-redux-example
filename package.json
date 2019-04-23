@@ -1,7 +1,7 @@
 {
   "name": "redux-example",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://nithinkumar20.github.io/react-redux-example",
   "dependencies": {
     "react": "^16.8.1",
